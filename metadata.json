@@ -1,0 +1,8 @@
+{
+  "name": "EVORA-AI Assurance Lab v1",
+  "description": "Explore research findings through interactive sliders and real-time data visualization charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
